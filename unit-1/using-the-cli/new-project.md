@@ -2,7 +2,7 @@
 
 You can create a new project with a single command:
 ```shell
-ng new PROJECT-NAME
+ng new PROJECT-NAME --style=scss
 ```
 All files will download, and npm will begin installing packages.
 
@@ -14,7 +14,7 @@ ng serve
 
 The default host is `localhost` and the default port is `4200`.  You can view the skeleton app at:
 ```shell
-http://localhost:4200/
+open http://localhost:4200/
 ```
 
 You can override the default host and port with command line options (`--host`, `--port`) when invoking the development server:

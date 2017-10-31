@@ -1,6 +1,6 @@
-# Blueprints
+# Generate Blueprints
 
-There are many pre-built blueprints in the CLI:
+There are many pre-built blueprints in the CLI for generating code:
 
 Scaffold    | Usage
 ---         | ---
@@ -15,3 +15,7 @@ Enum        | `ng g enum ENUM-NAME`
 Module      | `ng g module MODULE-NAME`
 
 To read all of the available options for each blueprint, visit the Angular CLI Wiki on GitHub: https://github.com/angular/angular-cli/wiki
+
+`ng g` is a shortcut for `ng generate`
+
+There are many other commands available other than `generate`, many of which will be covered in other Units/Modules.
