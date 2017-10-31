@@ -6,7 +6,7 @@ ng new PROJECT-NAME
 ```
 All files will download, and npm will begin installing packages.
 
-Once this process is complete, simply go into the directiona and serve up the skeleton app:
+Once this process is complete, simply go into the directory and serve up the skeleton app:
 ```shell
 cd PROJECT-NAME
 ng serve
