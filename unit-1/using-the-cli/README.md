@@ -5,3 +5,4 @@
 * [Installation](installation.md)
 * [New Project](new-project.md)
 * [Generate Blueprints](generate-blueprints.md)
+* [Tips](tips.md)

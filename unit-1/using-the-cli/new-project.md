@@ -2,9 +2,9 @@
 
 You can create a new project with a single command:
 ```shell
-ng new PROJECT-NAME --style=scss
+ng new PROJECT-NAME --style=scss --routing
 ```
-All files will download, and npm will begin installing packages.
+All files will download, and npm will begin installing packages.  We're opting to use SASS instead of plain CSS, and are asking the CLI to create an application-level route file: `app-routing.module.ts`
 
 Once this process is complete, simply go into the directory and serve up the skeleton app:
 ```shell
